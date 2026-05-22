@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/give-heaven-some-hell/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Give Heaven Some Hell](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/give-heaven-some-hell/) |
+| **Get License** | [Get License For Give Heaven Some Hell](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/give-heaven-some-hell/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `17663c1e541637bd6ea71371ab847a9431bab6c95239efb93e5b3bb57f6278c9` |
 | **Timestamp** | May 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

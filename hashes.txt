@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Give Heaven Some Hell
+
+This log tracks the cryptographic history and versioning for the song **Give Heaven Some Hell** (give-heaven-some-hell).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-23T05:25:59.319189 | `v1` | `17663c1e541637bd6ea71371ab847a9431bab6c95239efb93e5b3bb57f6278c9` | `a58b4ccacaf069056290602a22bdb2d26be25b2451e529a7ae0bbca23d3f708c` | `2026-05-23_give-heaven-some-hell-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
