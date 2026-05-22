@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I've been a good man for most of my days
+> Walking the line through the neon and haze
+> But looking at you with that fire in your eyes
+> I'm ready to fall from the clear country skies
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
